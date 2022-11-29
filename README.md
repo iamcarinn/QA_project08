@@ -26,3 +26,6 @@ Educational project from organization «School 21 and the National Research Toms
 | | «AliExpress_native_evelynme» | Отчет о тестировании приложения AliExpress. | ✅ |
 | | «Ozon_hybrid_selkagol» | Отчет о тестировании сайта Ozon. | ✅ |
 | | «AliExpress_hybrid_urreggab» | Отчет о тестировании сайта AliExpress. | ✅ |
+| **5** |  | **Release Cycle** | |
+| | «Release» |  Информация, какая связь между сборкой и выпуском, разница между сборкой и выпуском в тестировании ПО. Описание понятия «релизный цикл». Описание стадий разработки ПО, что такое «Milestone» и как Milestones отражаются на версии ПО. Что такое альфа и бета-релиз (альфа-версия и бета-версия ПО) и релиз-кандидат. | ✅ |
+| | «06.avito», «07.vk», «08.ozon», «09.aliexpress» | Скрины текущих версий мобильных приложений: Avito, ВКонтакте, Ozon, AliExpress. | ✅ |
