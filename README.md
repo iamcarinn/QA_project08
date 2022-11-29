@@ -21,3 +21,8 @@ Educational project from organization «School 21 and the National Research Toms
 | | «04.ios_app» | Сделайте скрин работы с iOS приложением в эмуляторе. | ✅ |
 | | «Emulator-Simulator» | Описаниее отличий эмулятора от симулятора. Описание программы, которая была протестирована в эмуляторе, и особенности ее функционала. Описание возможностей Your Virtual Device в Android Studio. | ✅ |
 | | «05.android_aliexpress» | Скрин эмулятора с запущенным AliExpress. | ✅ |
+| **4** |  | **Mobile Testing** | |
+| | «Ozon_native_marcelle» | Отчет о тестировании приложения Ozon. | ✅ |
+| | «AliExpress_native_evelynme» | Отчет о тестировании приложения AliExpress. | ✅ |
+| | «Ozon_hybrid_selkagol» | Отчет о тестировании сайта Ozon. | ✅ |
+| | «AliExpress_hybrid_urreggab» | Отчет о тестировании сайта AliExpress. | ✅ |
