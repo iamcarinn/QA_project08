@@ -17,3 +17,7 @@ Educational project from organization «School 21 and the National Research Toms
 | | «01.stat», «02.stat», «03.stat» | Статистика по использованию платформ и устройств на официальных сайтах (Statcounter, Appbrain, Browserstack, Mixpanel). Скрины графиков с наиболее значимыми данными для тестирования мобильных приложений Ozon и AliExpress. | ✅ |
 | | «тестовая_модель_Ozon_Mobile» | Тестовая модель приложения Ozon.| ✅ |
 | | «тестовая_модель_AliExpress_Mobile» | Тестовая модель приложения AliExpress.| ✅ |
+| **3** |  | **Emulators** | |
+| | «04.ios_app» | Сделайте скрин работы с iOS приложением в эмуляторе. | ✅ |
+| | «Emulator-Simulator» | Описаниее отличий эмулятора от симулятора. Описание программы, которая была протестирована в эмуляторе, и особенности ее функционала. Описание возможностей Your Virtual Device в Android Studio. | ✅ |
+| | «05.android_aliexpress» | Скрин эмулятора с запущенным AliExpress. | ✅ |
